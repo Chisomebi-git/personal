@@ -22,7 +22,7 @@ h3{
     color: #d86b63;
 }
 .top-container{
-    background-size: 100% auto;
+    background-size:100% 100%;
     background-color:#FFE3E3;
     background-image: url("../images/mountain2.png");
     position: relative;
