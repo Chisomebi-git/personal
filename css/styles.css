@@ -43,14 +43,14 @@ h3{
 }
 .top-cloud{
     position: absolute;
-    right: 40px;
-    width: 40%;
+    right: 30px;
+    width: 45%;
     height: auto;
 }
 .bottom-cloud{
     position: absolute;
-    left: 40px;
-    width: 40%;
+    left: 30px;
+    width: 45%;
     height: auto;
 }
 .middle-container{
