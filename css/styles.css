@@ -45,13 +45,13 @@ h3{
     position: absolute;
     right: 40px;
     object-fit: cover;
-    width: 25rem;
+    width: 25%;
     height: auto;
 }
 .bottom-cloud{
     position: absolute;
     left: 40px;
-    width: 25rem;
+    width: 25%;
     height: auto;
 }
 .middle-container{
