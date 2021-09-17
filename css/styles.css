@@ -23,7 +23,7 @@ h3{
     color: #d86b63;
 }
 .top-container{
-    background-size: auto;
+    background-size: cover 50vw;
     background-color:#FFE3E3;
     background-image: url("../images/mountain2.png");
     position: relative;
@@ -73,8 +73,7 @@ h3{
     word-spacing: normal;
 }
 .pp-image{
-    height: auto;
-    width: 15%;
+    height: 300px;
 }
 hr {
     border-style: none;
