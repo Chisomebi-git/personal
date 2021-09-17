@@ -23,7 +23,7 @@ h3{
     color: #d86b63;
 }
 .top-container{
-    background-size:auto auto;
+    background-size:cover;
     background-color:#FFE3E3;
     background-image: url("../images/mountain2.png");
     position: relative;
@@ -31,6 +31,7 @@ h3{
     margin-right: auto;
     margin-left: auto;
     padding-bottom: 13.25rem;
+    /* padding-bottom: 300px; */
     min-height: 500px;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -45,13 +46,13 @@ h3{
     position: absolute;
     right: 40px;
     object-fit: cover;
-    width: 25rem;
+    width: 40%;
     height: auto;
 }
 .bottom-cloud{
     position: absolute;
     left: 40px;
-    width: 25rem;
+    width: 40%;
     height: auto;
 }
 .middle-container{
@@ -131,5 +132,6 @@ a:hover{
     width: 40%;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 40px;
     /* position: relative; */
 }
