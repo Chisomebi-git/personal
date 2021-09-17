@@ -23,16 +23,16 @@ h3{
     color: #d86b63;
 }
 .top-container{
-    background-size:cover;
+    background-size: auto;
     background-color:#FFE3E3;
     background-image: url("../images/mountain2.png");
     position: relative;
     padding-top: 10px;
     margin-right: auto;
     margin-left: auto;
-    padding-bottom: 13.25rem;
+    padding-bottom: 5.25rem;
     /* padding-bottom: 300px; */
-    min-height: 500px;
+    /* min-height: 40%; */
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -54,6 +54,7 @@ h3{
     left: 40px;
     width: 40%;
     height: auto;
+    object-fit: cover;
 }
 .middle-container{
     background-color: #fff0f0;
