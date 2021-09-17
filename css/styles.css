@@ -38,7 +38,7 @@ h3{
     background-position: center;
     background-repeat: no-repeat;
     max-width: 100%;
-    height: auto;
+    height: 50vw;
     /* resize: both; */
     /* overflow: scroll; */
 }
@@ -73,7 +73,8 @@ h3{
     word-spacing: normal;
 }
 .pp-image{
-    height: 200px;
+    height: auto;
+    width: 15%;
 }
 hr {
     border-style: none;
